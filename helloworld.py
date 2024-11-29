@@ -1,6 +1,7 @@
 print("Hello Wordl")
 
 def mostrar_mensagem():
-    print("Nova mensagem: bem vindo ao projeto de controle de versão com git!")
-
+fix/corrigir-mensagem
+    print("Mensagem atualizada: Bem-vindo ao repositório do projeto de controle de versão!")
+main
 mostrar_mensagem()
